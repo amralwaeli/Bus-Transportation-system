@@ -1,2 +1,2 @@
 # Bus-Transportation-system
-creating a Bus Transportation system for the UTM students
+creating a Bus Transportation system for UTM students
